@@ -21,9 +21,9 @@ We are cash poor in the currency of cool
 
 -- B2D
 
-Dev Marketing is different, even from academia
-B2D and Dev Experience (DX)
-How easy are you making it for them (paella exercise) and what are the requirements
+- Dev Marketing is different, even from academia
+- B2D and Dev Experience (DX)
+- How easy are you making it for them (paella exercise) and what are the requirements
 
 Devs are different
 - Individuals and companies
@@ -39,12 +39,14 @@ Make the community personal
 Passionate people with high bullshit detectors
 
 Dev Program Components
-1 Goals and Objectives
-2 Underlying Products & Services
-3 Measurement Tracking and Analysis
-4 Outreach and Promo
-5 Dev Engagement
-6 Dev Enablement & support
+<ol>
+ <li> Goals and Objectives
+ <li>Underlying Products & Services
+ <li>Measurement Tracking and Analysis
+ <li>Outreach and Promo
+ <li>Dev Engagement
+ <li>Dev Enablement & support
+</ol>
 
 Being able to pivot as the pilot moves forward
 
@@ -56,9 +58,11 @@ open Source vs open Innovation
 - Can add more value and making things easier to contribute, but with API's its in inherently open
 
 3-Degrees of Open Source
-1 Open
-2 Proprietary with open components
-3 Free and available repos
+<ol>
+<li>Open
+<li>Proprietary with open components
+<li>Free and available repos
+</ol>
 
 -- SEGMENTATION
 Various different sources, closer to 40+M Globally across all languages
@@ -71,10 +75,10 @@ Segmentation Categories:
 - Business/Industry Focus
 - Market/Geo
 
-->Tech: Native
-->Skills: Fear of oAuth & Security experience of mobile apps
-->Focus: Must be a Mobile API Gateway Customer and large enterprise
-->Market: NA & Europe
+- Tech: Native
+- Skills: Fear of oAuth & Security experience of mobile apps
+- Focus: Must be a Mobile API Gateway Customer and large enterprise
+- Market: NA & Europe
 
 MAS Personas:
 - High Dev Skills: Off Loaders (Off loading the work and easing the pain)
@@ -89,16 +93,18 @@ Devs are resistant to traditional marketing, the proof is in the pudding and exp
 92% of devs are part of purchasing decision or the IT buying process by Developer Media Survey
 
 7 Point Onboarding Review
-1. First Impression - Make it easy & who is it for.  Nail the value prop.
-2. Product Messaging - Expand Value Prop, WIIFM
-3. Examples and Case Studies - External Validation
-4. Registration - Mostly one sided and less is more
-5. Getting Started - Easy onboarding
-6. Docs and Support - Make sure support goes somewhere and is answered by someone
-7. Libraries and SDK - Attributing back to individuals in the community and support the right platforms
+<ol>
+<li>First Impression - Make it easy & who is it for.  Nail the value prop.
+<li>Product Messaging - Expand Value Prop, WIIFM
+<li>Examples and Case Studies - External Validation
+<li>Registration - Mostly one sided and less is more
+<li>Getting Started - Easy onboarding
+<li>Docs and Support - Make sure support goes somewhere and is answered by someone
+<li>Libraries and SDK - Attributing back to individuals in the community and support the right platforms
+</ol>
 
 -- STACKOVERFLOW
-Integrate within websites, saying what tags we follow and support
+Integrate within websites, specifically stating what tags we follow and support
 
 -- GITHUB
 Social graph of who follows who and identifying who uses the "MAS" moniker in projects for cases
